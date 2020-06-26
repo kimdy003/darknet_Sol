@@ -206,6 +206,52 @@ network : Dense: Predicted in 1.707764 seconds.
 execution Time : 1.753548
 
 
+network : Alex: Predicted in 0.963207 seconds.
+--------- [15] end time : 1.049936 
+network : VGG: Predicted in 1.001241 seconds.
+--------- [11] end time : 1.054863 
+network : Alex: Predicted in 0.922935 seconds.
+--------- [17] end time : 1.055144 
+network : VGG: Predicted in 1.005973 seconds.
+--------- [12] end time : 1.055309 
+network : Alex: Predicted in 0.963790 seconds.
+--------- [16] end time : 1.055732 
+network : VGG: Predicted in 0.949056 seconds.
+--------- [14] end time : 1.055831 
+network : VGG: Predicted in 0.997134 seconds.
+--------- [10] end time : 1.056567 
+network : Alex: Predicted in 0.964554 seconds.
+--------- [18] end time : 1.058123 
+network : Alex: Predicted in 0.933112 seconds.
+--------- [19] end time : 1.058222 
+network : VGG: Predicted in 1.002913 seconds.
+--------- [13] end time : 1.058752 
+network : Res: Predicted in 1.667631 seconds.
+--------- [7] end time : 1.715875 
+network : Res: Predicted in 1.659234 seconds.
+--------- [6] end time : 1.719117 
+network : Res: Predicted in 1.624180 seconds.
+--------- [8] end time : 1.719550 
+network : Res: Predicted in 1.641108 seconds.
+--------- [9] end time : 1.722442 
+network : Res: Predicted in 1.671496 seconds.
+--------- [5] end time : 1.737280 
+network : Dense: Predicted in 1.740565 seconds.
+--------- [3] end time : 1.805113 
+network : Dense: Predicted in 1.728611 seconds.
+--------- [4] end time : 1.810312 
+network : Dense: Predicted in 1.729331 seconds.
+--------- [0] end time : 1.810889 
+network : Dense: Predicted in 1.698161 seconds.
+--------- [2] end time : 1.811835 
+network : Dense: Predicted in 1.695830 seconds.
+--------- [1] end time : 1.812725 
+***** Des : 5 , Res : 5 , VGG : 5 , Alex : 5 *****
+***** ThREAD NUM POOL : 8 *****
+
+execution Time : 1.813220
+
+
 ================low 12 16 20 =========================================
 
 
@@ -331,5 +377,7 @@ network : Res: Predicted in 0.882654 seconds.
 ***** ThREAD NUM POOL : 8 *****
 
 execution Time : 0.959657
+
+
 
 
